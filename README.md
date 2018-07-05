@@ -2,7 +2,7 @@
 React progressive  image loading
 
 参看 https://www.zhihu.com/question/55622930?sort=created
-···bash
+```bash
 npm install
 npm start
-···
+```
